@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/facerec_front_online/static/css/main.8628bdc2.chunk.css",
+    "main.js": "/facerec_front_online/static/js/main.e9ac85f2.chunk.js",
+    "main.js.map": "/facerec_front_online/static/js/main.e9ac85f2.chunk.js.map",
+    "runtime-main.js": "/facerec_front_online/static/js/runtime-main.b626a97e.js",
+    "runtime-main.js.map": "/facerec_front_online/static/js/runtime-main.b626a97e.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/facerec_front_online/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cfec3764.chunk.js": "/facerec_front_online/static/js/2.cfec3764.chunk.js",
+    "static/js/2.cfec3764.chunk.js.map": "/facerec_front_online/static/js/2.cfec3764.chunk.js.map",
+    "index.html": "/facerec_front_online/index.html",
+    "precache-manifest.779cba024f7b1abe24bfe52bd8763414.js": "/facerec_front_online/precache-manifest.779cba024f7b1abe24bfe52bd8763414.js",
+    "service-worker.js": "/facerec_front_online/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/facerec_front_online/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.8628bdc2.chunk.css.map": "/facerec_front_online/static/css/main.8628bdc2.chunk.css.map",
+    "static/js/2.cfec3764.chunk.js.LICENSE.txt": "/facerec_front_online/static/js/2.cfec3764.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b626a97e.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cfec3764.chunk.js",
+    "static/css/main.8628bdc2.chunk.css",
+    "static/js/main.e9ac85f2.chunk.js"
+  ]
+}
